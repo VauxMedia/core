@@ -1,4 +1,4 @@
-package Core
+package core
 
 import (
 	"github.com/codegangsta/inject"

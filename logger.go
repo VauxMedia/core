@@ -1,4 +1,4 @@
-package martini
+package core
 
 import (
 	"log"
